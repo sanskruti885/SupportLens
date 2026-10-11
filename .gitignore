@@ -4,3 +4,4 @@ __pycache__/
 .pytest_cache/
 *.pyc
 supportlens.db
+.pytest_cache/
